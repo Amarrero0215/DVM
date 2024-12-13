@@ -76,7 +76,7 @@ A TypeScript-powered Command Line Interface (CLI) application that allows users 
 
 ## Walkthrough Video
 
-[![Walkthrough Video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Walkthrough Video](./assets/M8-Walkthrough-Thumbnail.png)](https://drive.google.com/file/d/1OEdu65rRPnviT2x_SjdbjACxnCQWsTSO/view?usp=drive_link)
 
 ---
 
